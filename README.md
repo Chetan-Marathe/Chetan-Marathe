@@ -1,71 +1,90 @@
-![Hello World !! (1)](https://github.com/Krushnal121/Krushnal121/assets/109232748/a96492a0-9f20-4198-8ff3-24ab45f23d9e)
+<h1 align="center">Chetan Marathe</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
-</picture>
+- 🌱 I’m currently learning **Springboot**
 
-- 🔭 I’m currently working on <a href="https://github.com/DocuChain-Document-Ownership-DApp/DocuChain-Backend">DocuChain-Backend</a>
+- 👨‍💻 All of my projects are available at [https://github.com/Chetan-Marathe](https://github.com/Chetan-Marathe)
 
-- 🌱 I’m currently learning **Javascript, Java**
+- 📫 How to reach me **chetan.marathe1804@gmail.com**
 
-- 👯 I’m looking to collaborate on [Questify](https://github.com/Krushnal121/Questify-Quiz-Learn-Conquer)
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Krushnal121)
-
-- 💬 Ask me about **Python , Django**
-
-- 📫 How to reach me **krushnalpatil1111@gmail.com**
-
----
-
-<h2 align="left">🌐 Connect with Me:</h2>
-<a href="https://bento.me/krushnalpatil">
+<h3 align="left">Coding Profiles:</h3>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram,linkedin,x&titles=true" alt="Connect with me">
+<a href="https://linkedin.com/in/https://linkedin.com/in/chetanmarathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/chetanmarathe" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chetan_marathe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chetan_marathe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chetan682004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chetan682004" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/marathequk9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="marathequk9" height="30" width="40" /></a>
 </p>
-</a>
 
----
 
-<h2 align="left">💻 Languages:</h2>
+## 🖥️ Programming Languages:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,javascript,html,css,kotlin,cpp&titles=true" alt="Programming Languages">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="left">📊 Databases:</h2>
+## 🎨 Frontend Technologies:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,firebase&titles=true" alt="Databases">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="left">🛠️ Tools:</h2>
+## ⚙️ Backend Technologies:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,pycharm,webstorm,dataspell,vscode,postman,ganache,androidstudio,canva&titles=true" alt="Tools">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="left">🌐 Technologies:</h2>
+## 🗄️ Databases & Cloud Services:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,api,aws,gcp,azure,&titles=true" alt="Technologies">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="left">📚 Frameworks and Libraries:</h2>
+## 🛠️ Tools & Version Control:
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=django,expressjs,flask,react,truffle,vite,bootstrap&titles=true" alt="Frameworks and Libraries">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnal121&" alt="krushnal121" width="33%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnal121&show_icons=true&locale=en&layout=compact" alt="krushnal121" width="33%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=krushnal121&show_icons=true&locale=en" alt="krushnal121" width="33%" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan-marathe&show_icons=true&locale=en&layout=compact" alt="chetan-marathe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan-marathe&show_icons=true&locale=en" alt="chetan-marathe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-marathe&" alt="chetan-marathe" /></p>
