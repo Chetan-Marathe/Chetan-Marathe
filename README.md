@@ -1,80 +1,71 @@
-<h1 align="center">Hi 👋, I'm Chetan Marathe</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+![Hello World !! (1)](https://github.com/Krushnal121/Krushnal121/assets/109232748/a96492a0-9f20-4198-8ff3-24ab45f23d9e)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetan-marathe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
+</picture>
 
----
+- 🔭 I’m currently working on <a href="https://github.com/DocuChain-Document-Ownership-DApp/DocuChain-Backend">DocuChain-Backend</a>
 
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chetan-marathe/chetan-marathe/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+- 🌱 I’m currently learning **Javascript, Java**
 
----
+- 👯 I’m looking to collaborate on [Questify](https://github.com/Krushnal121/Questify-Quiz-Learn-Conquer)
 
-### 🚀 About Me
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Krushnal121)
 
-- 🌱 Currently learning **Spring Boot**
-- 👨‍💻 Check out my projects: [GitHub Profile](https://github.com/Chetan-Marathe)
-- 📫 How to reach me: **chetan.marathe1804@gmail.com**
+- 💬 Ask me about **Python , Django**
+
+- 📫 How to reach me **krushnalpatil1111@gmail.com**
 
 ---
 
-### 🔗 Connect with Me
+<h2 align="left">🌐 Connect with Me:</h2>
+<a href="https://bento.me/krushnalpatil">
 <p align="left">
-  <a href="https://linkedin.com/in/chetanmarathe" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/chetan_marathe" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/chetan682004" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/marathequk9" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram,linkedin,x&titles=true" alt="Connect with me">
 </p>
+</a>
 
 ---
 
-### 🛠️ Languages & Tools
+<h2 align="left">💻 Languages:</h2>
 <p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,javascript,html,css,kotlin,cpp&titles=true" alt="Programming Languages">
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetan-marathe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-marathe&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan-marathe&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+<h2 align="left">📊 Databases:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,firebase&titles=true" alt="Databases">
 </p>
 
 ---
+
+<h2 align="left">🛠️ Tools:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,pycharm,webstorm,dataspell,vscode,postman,ganache,androidstudio,canva&titles=true" alt="Tools">
+</p>
+
+---
+
+<h2 align="left">🌐 Technologies:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,api,aws,gcp,azure,&titles=true" alt="Technologies">
+</p>
+
+---
+
+<h2 align="left">📚 Frameworks and Libraries:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=django,expressjs,flask,react,truffle,vite,bootstrap&titles=true" alt="Frameworks and Libraries">
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnal121&" alt="krushnal121" width="33%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnal121&show_icons=true&locale=en&layout=compact" alt="krushnal121" width="33%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krushnal121&show_icons=true&locale=en" alt="krushnal121" width="33%" />
+</p>
