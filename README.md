@@ -8,7 +8,7 @@
 ##  About Me
 
 - I’m currently learning **Spring Boot**
-- Email: **chetan.marathe1804@gmail.com**
+- Email id: **chetan.marathe1804@gmail.com**
 
 ---
 
