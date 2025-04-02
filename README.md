@@ -9,6 +9,7 @@
 
 - I’m currently learning **Spring Boot**
 - Email id: **chetan.marathe1804@gmail.com**
+- Linked in: **linkedin.com/in/ChetanMarathe**
 
 ---
 
@@ -74,6 +75,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
 
 ---
