@@ -69,7 +69,6 @@
 ## 🛠️ Tools & Version Control
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,vscode,postman,canva&titles=true" alt="Tools">
 </p>
 
