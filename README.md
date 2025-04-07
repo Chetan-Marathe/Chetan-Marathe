@@ -1,6 +1,4 @@
-<h1 align="center">Chetan Marathe</h1>
-<h3 align="center">A Passionate Developer from India</h3>
-
+![Header](./github-header-image.png)
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
