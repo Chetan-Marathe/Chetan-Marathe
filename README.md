@@ -8,6 +8,8 @@
 - I’m currently learning **Spring Boot**
 - Email id: **chetan.marathe1804@gmail.com**
 - Linked in: **linkedin.com/in/ChetanMarathe**
+- 📄 [My Resume](https://drive.google.com/file/d/15fQWBAjA3Fr-OKxSi2wYCkdCa7H4UaJ8/view?usp=drive_link)
+
 
 ---
 
