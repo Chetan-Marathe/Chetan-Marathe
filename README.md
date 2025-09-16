@@ -5,7 +5,7 @@
 
 ##  About Me
 
-- I’m currently learning **Spring Boot**
+- I’m currently learning **ROS2**
 - Email id: **chetan.marathe1804@gmail.com**
 - Linked in: **linkedin.com/in/ChetanMarathe**
 
